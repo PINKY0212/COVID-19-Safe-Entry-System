@@ -22,6 +22,6 @@ Real-Time People Counting & Occupancy Tracking
 A centralized dashboard displays the real-time count of people inside the building, preventing overcrowding.
 
 ## Technical Implementation
-**Hardware:** Raspberry Pi/Arduino, IR temperature sensor, ultrasonic sensor, servo motor (for gate control), camera module.
-**Software:** Python (OpenCV, TensorFlow), Flask/Django for dashboard, Firebase/MySQL for data storage.
-**Deep Learning Model:** Custom CNN (Convolutional Neural Network) trained on masked/unmasked face datasets.
+- **Hardware:** Raspberry Pi/Arduino, IR temperature sensor, ultrasonic sensor, servo motor (for gate control), camera module.
+- **Software:** Python (OpenCV, TensorFlow)
+ - **Deep Learning Model:** Custom CNN (Convolutional Neural Network) trained on masked/unmasked face datasets.
